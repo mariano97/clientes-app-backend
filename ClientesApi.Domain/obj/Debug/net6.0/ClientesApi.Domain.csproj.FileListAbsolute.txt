@@ -1,0 +1,15 @@
+/Users/marioandresserranouruena/Projects/ClientesApi/ClientesApi.Domain/bin/Debug/net6.0/ClientesApi.Domain.deps.json
+/Users/marioandresserranouruena/Projects/ClientesApi/ClientesApi.Domain/bin/Debug/net6.0/ClientesApi.Domain.dll
+/Users/marioandresserranouruena/Projects/ClientesApi/ClientesApi.Domain/bin/Debug/net6.0/ClientesApi.Domain.pdb
+/Users/marioandresserranouruena/Projects/ClientesApi/ClientesApi.Domain/bin/Debug/net6.0/ClientesApi.Data.dll
+/Users/marioandresserranouruena/Projects/ClientesApi/ClientesApi.Domain/bin/Debug/net6.0/ClientesApi.Data.pdb
+/Users/marioandresserranouruena/Projects/ClientesApi/ClientesApi.Domain/obj/Debug/net6.0/ClientesApi.Domain.csproj.AssemblyReference.cache
+/Users/marioandresserranouruena/Projects/ClientesApi/ClientesApi.Domain/obj/Debug/net6.0/ClientesApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marioandresserranouruena/Projects/ClientesApi/ClientesApi.Domain/obj/Debug/net6.0/ClientesApi.Domain.AssemblyInfoInputs.cache
+/Users/marioandresserranouruena/Projects/ClientesApi/ClientesApi.Domain/obj/Debug/net6.0/ClientesApi.Domain.AssemblyInfo.cs
+/Users/marioandresserranouruena/Projects/ClientesApi/ClientesApi.Domain/obj/Debug/net6.0/ClientesApi.Domain.csproj.CoreCompileInputs.cache
+/Users/marioandresserranouruena/Projects/ClientesApi/ClientesApi.Domain/obj/Debug/net6.0/ClientesApi.Domain.csproj.CopyComplete
+/Users/marioandresserranouruena/Projects/ClientesApi/ClientesApi.Domain/obj/Debug/net6.0/ClientesApi.Domain.dll
+/Users/marioandresserranouruena/Projects/ClientesApi/ClientesApi.Domain/obj/Debug/net6.0/refint/ClientesApi.Domain.dll
+/Users/marioandresserranouruena/Projects/ClientesApi/ClientesApi.Domain/obj/Debug/net6.0/ClientesApi.Domain.pdb
+/Users/marioandresserranouruena/Projects/ClientesApi/ClientesApi.Domain/obj/Debug/net6.0/ref/ClientesApi.Domain.dll

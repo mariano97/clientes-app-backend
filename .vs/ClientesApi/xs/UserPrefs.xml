@@ -1,0 +1,7 @@
+﻿<Properties StartupConfiguration="{AC091F6E-7D3C-43FA-9B37-13AFE7B338EE}|Default">
+  <MonoDevelop.Ide.ItemProperties.ClientesApi.Services FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ClientesApi.Data FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ClientesApi FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.ClientesApi.Domain FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
